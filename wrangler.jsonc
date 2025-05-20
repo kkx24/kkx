@@ -1,0 +1,8 @@
+{
+  "name": "letter-to-momiao",
+  "compatibility_date": "2025-05-20",
+  "main": "worker.js",
+  "assets": {
+    "directory": "."
+  }
+}
